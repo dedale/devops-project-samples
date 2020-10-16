@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ded0530/sandbox/_apis/build/status/dedale.devops-project-samples?branchName=master)](https://dev.azure.com/ded0530/sandbox/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
